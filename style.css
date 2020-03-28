@@ -4,3 +4,10 @@ height:200px;
 border-width:3px;
 border-style:solid;
 }
+
+.smallrectangle{
+width:20%;
+height:200px;
+border-width:3px;
+border-style:solid;
+}
