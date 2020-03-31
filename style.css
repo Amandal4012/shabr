@@ -35,4 +35,11 @@ font-family: 'Shrikhand', cursive;
 
 .subtitle{
 font-family: 'Merriweather', serif;
+text-align:center;
+}
+.text{
+font-family: 'PT Sans Narrow', sans-serif;
+}
+p{
+text-align:center;
 }
