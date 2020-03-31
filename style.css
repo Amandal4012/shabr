@@ -28,3 +28,11 @@ border-style:solid;
 border-radius:50%;
 display: inline-block;
 }
+
+.logo{
+font-family: 'Shrikhand', cursive;    
+}
+
+.subtitle{
+font-family: 'Merriweather', serif;
+}
