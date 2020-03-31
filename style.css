@@ -47,3 +47,14 @@ font-family: 'PT Sans Narrow', sans-serif;
 p{
 text-align:center;
 }
+
+.circular-img{
+ border-radius: 50%;
+}
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
