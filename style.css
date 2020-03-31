@@ -37,9 +37,13 @@ font-family: 'Shrikhand', cursive;
 font-family: 'Merriweather', serif;
 text-align:center;
 }
+.links{
+font-family:'Arial', cursive;
+}
 .text{
 font-family: 'PT Sans Narrow', sans-serif;
 }
+
 p{
 text-align:center;
 }
