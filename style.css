@@ -12,6 +12,13 @@ border-width:3px;
 border-style:solid;
 }
 
+.rainbow{
+width:6%;
+height:200px;
+border-width:3px;
+border-style:solid;
+}
+
 .thinrect{
 width:100%;
 height:40px;
