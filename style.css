@@ -92,7 +92,9 @@ p{
 text-align:center;
 }
 
-.circular-img{
+.circle-img{
+    width:250px;
+    height:250px;
  border-radius: 50%;
 }
 
