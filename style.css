@@ -72,7 +72,7 @@ display: inline-block;
 }
 
 .logo{
-font-family: 'Shrikhand', cursive;    
+font-family: 'Shrikhand', cursive;
 }
 
 .subtitle{
@@ -107,4 +107,41 @@ margin-right: auto;
 
 .blue{
 color: blue;
+}
+
+@media only screen and (max-width: 600px){
+    body{
+    font-size: 14px;
+    }
+   
+}
+
+
+@media only screen and (min-width: 600px) {
+    body{
+    font-size: 16px;
+    }
+
+}
+
+
+@media only screen and (min-width: 768px) {
+    body{
+    font-size: 18px;
+    }
+}
+
+
+@media only screen and (min-width: 992px) {
+    body{
+    font-size: 20px;
+    }
+}
+
+
+@media only screen and (min-width: 1200px) {
+body{
+    font-size: 26px;
+    }
+    
 }
