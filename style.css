@@ -113,7 +113,11 @@ color: blue;
     body{
     font-size: 14px;
     }
-   
+    
+    img{
+    width:30%;
+    height:30%;
+    }
 }
 
 
@@ -122,12 +126,21 @@ color: blue;
     font-size: 16px;
     }
 
+    img{
+    width:30%;
+    height:30%;
+    }
 }
 
 
 @media only screen and (min-width: 768px) {
     body{
     font-size: 18px;
+    }
+    
+    img{
+    width:25%;
+    height:25%;
     }
 }
 
@@ -136,12 +149,21 @@ color: blue;
     body{
     font-size: 20px;
     }
+    
+    img{
+    width:20%;
+    height:20%;
+    }
 }
 
 
 @media only screen and (min-width: 1200px) {
-body{
+    body{
     font-size: 26px;
     }
     
+    img{
+    width:15%;
+    height:15%;
+    }
 }
