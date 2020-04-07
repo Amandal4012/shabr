@@ -118,6 +118,15 @@ color: blue;
     width:30%;
     height:30%;
     }
+    
+    .rectangle{
+    width:100%;
+    height:170px;
+    }
+    
+    .smallrectangle{
+     display: none;
+    }
 }
 
 
@@ -129,6 +138,15 @@ color: blue;
     img{
     width:30%;
     height:30%;
+    }
+    
+     .rectangle{
+    width:100%;
+    height:170px;
+    }
+    
+     .smallrectangle{
+     display: none;
     }
 }
 
@@ -142,6 +160,9 @@ color: blue;
     width:25%;
     height:25%;
     }
+     .smallrectangle{
+     display: none;
+    }
 }
 
 
@@ -154,6 +175,9 @@ color: blue;
     width:20%;
     height:20%;
     }
+    .smallrectangle{
+     display: inline;
+    }
 }
 
 
@@ -165,5 +189,9 @@ color: blue;
     img{
     width:15%;
     height:15%;
+    }
+    
+     .smallrectangle{
+     display: inline;
     }
 }
