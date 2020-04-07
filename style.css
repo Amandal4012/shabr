@@ -1,54 +1,54 @@
 .rectangle{
-width:80%;
+width:970px;
 height:200px;
 border-width:3px;
 border-style:solid;
 }
 
 .smallrectangle{
-width:12.79%;
+width:200px;
 height:200px;
 border-width:3px;
 border-style:solid;
 }
 
 .redstrip{
-width:2.13%;
+width:25;
 height:200px;
 border-width:3px;
 border-style:solid;
 }
 
 .ojstrip{
-width:2.13%;
+width:25;
 height:200px;
 border-width:3px;
 border-style:solid;
 }
 
 .yellowstrip{
-width:2.13%;
+width:25;
 height:200px;
 border-width:3px;
 border-style:solid;
 }
 
 .greenstrip{
-width:2.13%;
+width:25;
 height:200px;
 border-width:3px;
 border-style:solid;
 }
 
 .bluestrip{
-width:2.13%;
+width:25%;
 height:200px;
 border-width:3px;
 border-style:solid;
 }
 
 .purplestrip{
-width:2.13%;
+width:25;
 height:200px;
 border-width:3px;
 border-style:solid;
