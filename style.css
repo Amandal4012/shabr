@@ -112,6 +112,10 @@ color: blue;
     .smallrectangle{
      display: none;
     }
+    
+    a{
+     display:none;
+    }
 }
 
 
@@ -132,6 +136,10 @@ color: blue;
     
      .smallrectangle{
      display: none;
+    }
+    
+    a{
+     display:none;
     }
 }
 
@@ -154,6 +162,10 @@ color: blue;
      .smallrectangle{
      display: none;
     }
+    
+    a{
+     display:none;
+    }
 }
 
 
@@ -173,7 +185,10 @@ color: blue;
     }
     
     .smallrectangle{
-     display: inline;
+     display: none;
+    }
+    a{
+     display:none;
     }
 }
 
@@ -195,6 +210,10 @@ color: blue;
     
      .smallrectangle{
      display: inline;
+    }
+    
+    a{
+     display:inline;
     }
 }
 
