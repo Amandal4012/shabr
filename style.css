@@ -208,3 +208,7 @@ text-box{
 .tilted{
 transform: rotate(-270deg);
 }
+
+.scroll{
+ scroll-behavior:auto;
+}
