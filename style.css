@@ -204,3 +204,7 @@ color: blue;
 text-box{
  font-size:15vw;
 }
+
+.tilted{
+transform: rotate(-270deg);
+}
