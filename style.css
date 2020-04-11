@@ -205,8 +205,8 @@ text-box{
  font-size:15vw;
 }
 
-.tilted{
-transform: rotate(-270deg);
+.rotate{
+transform: rotate(180deg);
 }
 
 .scroll{
