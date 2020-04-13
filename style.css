@@ -206,7 +206,7 @@ text-box{
 }
 
 .rotate{
-transform: rotate(180deg);
+transform: rotate(270deg);
 }
 
 .scroll{
