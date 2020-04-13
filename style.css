@@ -209,6 +209,3 @@ text-box{
 transform: rotate(270deg);
 }
 
-.scroll{
- scroll-behavior:auto;
-}
